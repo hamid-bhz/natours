@@ -1,0 +1,14 @@
+{
+  "name": "tour-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/styles.css"
+  },
+  "author": "HamidReza Behzadi",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
